@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Local env files
+.env
+
+# Optional: ignore raw evidence screenshots or exports
+# evidence/

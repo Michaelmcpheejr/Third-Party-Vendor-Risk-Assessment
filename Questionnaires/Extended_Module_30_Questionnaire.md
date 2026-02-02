@@ -1,5 +1,7 @@
 # Extended Vendor Security Questionnaire (High Risk Vendors Only)
 
+⚠️ Only required for Tier = High Risk
+
 ## Purpose
 
 This extended questionnaire is required for **High Risk vendors** that handle sensitive data (PII, PHI, PCI, SOX financial data) or maintain privileged/API integrations. It supports deeper validation of vendor security posture beyond the Core 15.

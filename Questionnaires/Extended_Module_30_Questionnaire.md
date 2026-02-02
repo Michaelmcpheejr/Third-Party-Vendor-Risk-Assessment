@@ -8,6 +8,18 @@ This module is designed to assess high assurance controls across identity, infra
 
 ---
 
+## When This Module Is Required
+
+This module is required if any of the following apply:
+
+- No SOC 2 Type II or ISO 27001 equivalent evidence  
+- MFA not enforced for privileged access  
+- Encryption controls are unclear or missing  
+- Recent breach or weak incident response maturity  
+- High risk integration (API or admin level access)  
+
+---
+
 ## Section 1: Governance and Security Program (Questions 1–5)
 
 1. Do you have a designated security leader (CISO or equivalent) responsible for your security program?
@@ -21,9 +33,9 @@ This module is designed to assess high assurance controls across identity, infra
 5. Do you conduct background checks for employees with access to sensitive systems or customer data?
 
 Evidence Examples:
-- Security governance overview
-- Training completion metrics
-- HR screening policy
+- Security governance overview  
+- Training completion metrics  
+- HR screening policy  
 
 ---
 
@@ -40,9 +52,9 @@ Evidence Examples:
 10. Do you perform access reviews for privileged accounts at least quarterly?
 
 Evidence Examples:
-- Access control policy
-- Privileged access logs
-- Review attestations
+- Access control policy  
+- Privileged access logs  
+- Review attestations  
 
 ---
 
@@ -52,16 +64,16 @@ Evidence Examples:
 
 12. Is all customer data encrypted in transit using TLS 1.2+?
 
-13. Do you maintain encryption key management practices (rotation, protection, restricted access)?
+13. Do you maintain encryption key management practices such as rotation, protection, and restricted administrative access?
 
-14. Do you support customer-managed keys (BYOK or HYOK) for high sensitivity clients if required?
+14. Do you manage encryption keys through a centralized Key Management Service (KMS) with restricted access and regular rotation?
 
 15. Do you maintain documented data classification and handling procedures?
 
 Evidence Examples:
-- Key management documentation
-- Encryption architecture excerpt
-- Data classification policy
+- Key management documentation  
+- Encryption architecture excerpt  
+- Data classification policy  
 
 ---
 
@@ -78,9 +90,9 @@ Evidence Examples:
 20. Are security findings tracked through remediation to closure?
 
 Evidence Examples:
-- Vulnerability management policy
-- Pen test executive summary
-- Remediation tracker samples
+- Vulnerability management policy  
+- Pen test executive summary  
+- Remediation tracker samples  
 
 ---
 
@@ -95,9 +107,9 @@ Evidence Examples:
 24. Do you maintain separation between development, staging, and production environments?
 
 Evidence Examples:
-- SDLC documentation
-- Change management workflow
-- Security testing reports
+- SDLC documentation  
+- Change management workflow  
+- Security testing reports  
 
 ---
 
@@ -112,9 +124,9 @@ Evidence Examples:
 28. Do you maintain centralized security monitoring (SIEM or equivalent) with alerting for critical events?
 
 Evidence Examples:
-- IR plan excerpt
-- Tabletop exercise summary
-- Monitoring and logging overview
+- IR plan excerpt  
+- Tabletop exercise summary  
+- Monitoring and logging overview  
 
 ---
 
@@ -125,9 +137,9 @@ Evidence Examples:
 30. Do you assess and monitor your subprocessors (fourth parties) for security risk, and can you provide transparency into their role?
 
 Evidence Examples:
-- DR test summary
-- Subprocessor inventory
-- Oversight and contract controls
+- DR test summary  
+- Subprocessor inventory  
+- Oversight and contract controls  
 
 ---
 

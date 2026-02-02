@@ -1,0 +1,3 @@
+Vendor Name,Service Category,Tier,Data Exposure,Current Risk Rating,Top Open Finding,Business Owner,Vendor Status(Approved/Conditional/Not Approved)
+FinanceCloud ERP,Finance SaaS,High,Financial Reporting Data,High,Pen test critical vulnerability unresolved,CFO Operations,Conditional
+WorkChat Collaboration,SaaS Productivity,Medium,Internal Business Data,Medium,Subprocessor list incomplete,IT Operations,Approved

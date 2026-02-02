@@ -1,0 +1,3 @@
+Vendor Name,Tier,Risk Finding,Evidence Gap,Likelihood(1-3),Impact(1-5),Risk Score,Rating(L/M/H),Required Remediation,Owner (Vendor or Internal),Target Date,Status(Open/In Progress/Closed/Accepted),Notes / Risk Acceptance Approval
+CloudHR SaaS,High,MFA not enforced for privileged admin accounts,No policy or configuration proof provided,3,5,15,High,Enforce MFA for all admin roles prior to onboarding approval,Vendor Security Team,2026-04-30,Open,Cannot proceed until remediated or formally accepted
+Marketing Analytics Tool,Low,No SOC 2 available but no sensitive data exposure,Independent assurance not provided,1,2,2,Low,Provide basic security overview or alternative attestation,Vendor,2026-06-30,In Progress,Acceptable due to low tier classification

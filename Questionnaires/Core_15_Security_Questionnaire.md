@@ -39,3 +39,10 @@ Extended module is required if any apply:
 - Incident response or notification SLA gaps
 - Handles PHI, PCI, or financial reporting data
 - High risk integration (API or privileged)
+
+## Scoring Guidance
+For each Yes/No answer:
+- Yes = 0 risk points
+- No = 1 risk point
+High risk triggers should occur when total risk points ≥ 3
+

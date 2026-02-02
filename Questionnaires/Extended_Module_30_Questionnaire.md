@@ -1,6 +1,6 @@
 # Extended Vendor Security Questionnaire (High Risk Vendors Only)
 
-⚠️ Only required for Tier = High Risk
+⚠️ Only required when Tier = High Risk ⚠️
 
 ## Purpose
 

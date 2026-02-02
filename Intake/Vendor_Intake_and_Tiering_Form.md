@@ -1,4 +1,6 @@
-# Vendor Intake and Tiering Form (Universal Gate)
+# Vendor Intake and Tiering Form (Universal Gate) 
+
+Complete this form *before* the security questionnaire is issued.
 
 ## Vendor Details
 
